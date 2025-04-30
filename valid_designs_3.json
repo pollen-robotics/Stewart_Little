@@ -1,0 +1,332 @@
+[
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.2379994434537722,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.28559933214452665,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.3331992208352811,
+        "Psi_P": 0.4759988869075444,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.3331992208352811,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.3807991095260355,
+        "Psi_P": 0.42839899821678995,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.3807991095260355,
+        "Psi_P": 0.4759988869075444,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.3807991095260355,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.42839899821678995,
+        "Psi_P": 0.3807991095260355,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.42839899821678995,
+        "Psi_P": 0.42839899821678995,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.42839899821678995,
+        "Psi_P": 0.4759988869075444,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.42839899821678995,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.4759988869075444,
+        "Psi_P": 0.3331992208352811,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.4759988869075444,
+        "Psi_P": 0.3807991095260355,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.4759988869075444,
+        "Psi_P": 0.42839899821678995,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.4759988869075444,
+        "Psi_P": 0.4759988869075444,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.4759988869075444,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.28559933214452665,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.3331992208352811,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.3807991095260355,
+        "max_roll_deg": 9,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.42839899821678995,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.4759988869075444,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    },
+    {
+        "r_B": 30,
+        "r_P": 25,
+        "lhl": 40,
+        "ldl": 130,
+        "Psi_B": 0.5235987755982988,
+        "Psi_P": 0.5235987755982988,
+        "max_roll_deg": 10,
+        "max_pitch_deg": 9,
+        "sensitivity": {
+            "delta_per_mm_x": 0.0,
+            "delta_per_mm_y": 0.0,
+            "delta_per_mm_z": 0.0
+        }
+    }
+]
