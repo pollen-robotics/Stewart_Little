@@ -1,0 +1,67 @@
+[
+    {
+        "Psi_B_rad": 0,
+        "Psi_P_rad": 0,
+        "Psi_B_deg": 0.0,
+        "Psi_P_deg": 0.0,
+        "max_roll_deg": 79,
+        "max_pitch_deg": 83,
+        "max_yaw_deg": 90,
+        "stability": {
+            "mean_motor_delta_for_5deg_roll": 0.0,
+            "mean_motor_delta_for_5deg_pitch": 0.0
+        }
+    },
+    {
+        "Psi_B_rad": 0.2617993877991494,
+        "Psi_P_rad": 0.2617993877991494,
+        "Psi_B_deg": 14.999999999999998,
+        "Psi_P_deg": 14.999999999999998,
+        "max_roll_deg": 79,
+        "max_pitch_deg": 70,
+        "max_yaw_deg": 90,
+        "stability": {
+            "mean_motor_delta_for_5deg_roll": 0.0,
+            "mean_motor_delta_for_5deg_pitch": 0.0
+        }
+    },
+    {
+        "Psi_B_rad": 0.5235987755982988,
+        "Psi_P_rad": 0.5235987755982988,
+        "Psi_B_deg": 29.999999999999996,
+        "Psi_P_deg": 29.999999999999996,
+        "max_roll_deg": 90,
+        "max_pitch_deg": 69,
+        "max_yaw_deg": 90,
+        "stability": {
+            "mean_motor_delta_for_5deg_roll": 0.0,
+            "mean_motor_delta_for_5deg_pitch": 0.0
+        }
+    },
+    {
+        "Psi_B_rad": 0.5235987755982988,
+        "Psi_P_rad": 0,
+        "Psi_B_deg": 29.999999999999996,
+        "Psi_P_deg": 0.0,
+        "max_roll_deg": 71,
+        "max_pitch_deg": 81,
+        "max_yaw_deg": 90,
+        "stability": {
+            "mean_motor_delta_for_5deg_roll": 0.0,
+            "mean_motor_delta_for_5deg_pitch": 0.0
+        }
+    },
+    {
+        "Psi_B_rad": 0,
+        "Psi_P_rad": 0.5235987755982988,
+        "Psi_B_deg": 0.0,
+        "Psi_P_deg": 29.999999999999996,
+        "max_roll_deg": 90,
+        "max_pitch_deg": 69,
+        "max_yaw_deg": 90,
+        "stability": {
+            "mean_motor_delta_for_5deg_roll": 0.0,
+            "mean_motor_delta_for_5deg_pitch": 0.0
+        }
+    }
+]
